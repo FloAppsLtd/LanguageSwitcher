@@ -3,7 +3,7 @@
 /**
  * Class LanguageSelectorPlugin
  */
-class LanguageSelectorPlugin extends Omeka_Plugin_AbstractPlugin
+class LanguageSwitcherPlugin extends Omeka_Plugin_AbstractPlugin
 {
 
     protected $_hooks = [
